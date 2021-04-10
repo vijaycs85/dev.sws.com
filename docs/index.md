@@ -15,6 +15,6 @@ intro_image_hide_on_mobile: true
 
 Specially for government job aspirants
 
-mainly focused on mathematics! 
+Mainly focused on MATHEMATICS! 
 
 Join with us to secure your dream job!
