@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 ---
 
 # Stay with Success
+Miles to go...!
+
+Promises to keep...!!
+
 வெற்றியாளராய் மாறுவோம்,
 
 விரைவில் வரலாறு படைப்போம்...!
