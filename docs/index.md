@@ -8,4 +8,6 @@ intro_image_hide_on_mobile: true
 ---
 
 # Stay with Success
-An online teaching institute that helps you to chase your dream job by providing quality training and mentorship.
+வெற்றியாளராய் மாறுவோம்,
+
+விரைவில் வரலாறு படைப்போம்...!
