@@ -1,12 +1,22 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "name": "Youtube",
+    "link": "https://www.youtube.com/c/StaywithSuccess",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "name": "Instagram",
+    "link": "https://www.instagram.com/stay_with_success",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://m.facebook.com/Stay-with-success-103820641282563/",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Telegram",
+    "link": "https://t.me/staywithsuccess",
     "image": "images/social/twitter.svg"
   }
 ]
